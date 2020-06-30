@@ -4,3 +4,4 @@ I had implemented 4 sorting algotrithms in this project.
 1. Bubble Sort
 2. Insertion Sort
 3. Selection Sort
+4. Ripple Sort
