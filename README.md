@@ -3,3 +3,4 @@ This is my minor project where I had implemented different sorting algorithm and
 I had implemented 4 sorting algotrithms in this project.
 1. Bubble Sort
 2. Insertion Sort
+3. Selection Sort
